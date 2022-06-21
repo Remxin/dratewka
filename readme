@@ -1,0 +1,5 @@
+Aplikacja działa tylko na serwerze lub localserwerze (live server)
+Lokalne otworzenie pliku nic nie da, gdyż importy i exporty nie bedą dozwolone
+Dodatkową blokadą jest CORS
+
+:)
