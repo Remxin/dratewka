@@ -1,7 +1,7 @@
 # **🎮 Dratewka the shoemaker 🎮**
 ## **Dratewka is a Atari 8bit command line game**  
 #### Play the game now!
-### [Link to game](http://dratewka.dnabaglo.ct8.pl)
+### 🌐 [Play the game!](http://dratewka.remxin.ct8.pl) 🌐 
 
 #### **How to play?**
 - ✅ use commands to navigate and perform specific actions
